@@ -1,0 +1,70 @@
+return {
+	hash_to_handle = {
+		[-9105293520473463851] = 3,
+		[-3777632767178481015] = 4,
+		[-2063863614139006881] = 5,
+		[-1806104690466274844] = 2,
+		[3967939347055165849] = 1,
+	},
+	name = "Deleted empty collections",
+	objects = PlaceObj('ObjectsEditOp', {
+		data = {
+			{
+				__undo_handle = 1,
+				after = {
+					Angle = 17512,
+					__undo_handle = 1,
+					class = "SetpiecePosMarker",
+					eFlags = 8,
+					gFlags = 4,
+				},
+				op = "update",
+			},
+			{
+				__undo_handle = 2,
+				after = {
+					Angle = 16055,
+					__undo_handle = 2,
+					class = "SetpiecePosMarker",
+					eFlags = 8,
+					gFlags = 4,
+				},
+				op = "update",
+			},
+			{
+				__undo_handle = 3,
+				after = {
+					Angle = 14043,
+					__undo_handle = 3,
+					class = "SetpiecePosMarker",
+					eFlags = 8,
+					gFlags = 4,
+				},
+				op = "update",
+			},
+			{
+				__undo_handle = 4,
+				after = {
+					Angle = 16200,
+					__undo_handle = 4,
+					class = "SetpiecePosMarker",
+					eFlags = 8,
+					gFlags = 4,
+				},
+				op = "update",
+			},
+			{
+				__undo_handle = 5,
+				after = {
+					Angle = 2700,
+					Pos = point(171445, 229118),
+					__undo_handle = 5,
+					class = "SetpiecePosMarker",
+					eFlags = 8,
+					gFlags = 4,
+				},
+				op = "update",
+			},
+		},
+	}),
+}

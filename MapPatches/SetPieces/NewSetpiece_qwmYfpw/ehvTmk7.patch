@@ -1,0 +1,9 @@
+return {
+	hash_to_handle = {
+		[1799227864414658255] = 1,
+	},
+	name = "Deleted empty collections",
+	objects = PlaceObj('ObjectsEditOp', {
+		data = {},
+	}),
+}
